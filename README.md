@@ -27,3 +27,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+1、.browserslistrc是给postcss.config.js的autoprefixer插件使用的
+为CSS打一些前缀
+
+2、.eslintrc.js为一些eslint的一些配置
