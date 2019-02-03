@@ -33,3 +33,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 为CSS打一些前缀
 
 2、.eslintrc.js为一些eslint的一些配置
+
+3、查看webpack是否配置成功 vue inspect >> output.js
